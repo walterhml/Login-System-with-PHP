@@ -1,5 +1,5 @@
 
-# Documentação do Projeto: Sistema Simples de Login com PHP
+# Sistema Simples de Login com PHP
 Este projeto consiste em um sistema simples de login desenvolvido em PHP, utilizando sessões para autenticação de usuários. O sistema possui duas páginas principais: login.php e home.php, além do arquivo index.php que serve como ponto de entrada da aplicação.
 
 ## Funcionamento Geral
